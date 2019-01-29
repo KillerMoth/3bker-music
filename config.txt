@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=
-game=Test
+owner=448964162840690700
+prefix=1
+game=1play | DragonsEmpire
 stayinchannel=true
 songinstatus=false
-token=NTMxODIxNTUyOTc1NzQwOTI5.DxThCQ.wjum6oJcXh_KhP45GtvXEwOlDq4
+token=NTM4MTIxODA5ODQ1ODEzMjUx.DzHntw.BnmP3ZItgAN6TBaBVlqpTBRNnUY
